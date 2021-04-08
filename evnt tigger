@@ -10,4 +10,4 @@
   page_build:
   release:
     types: # This configuration does not affect the page_build event above
-     4
+     4 [http://signup.iamjaswanthsai.com]
